@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-tree-view/static/css/main.0ab24bc1.css",
+    "main.js": "/fcc-tree-view/static/js/main.9e3d1df1.js",
+    "static/js/453.38d94057.chunk.js": "/fcc-tree-view/static/js/453.38d94057.chunk.js",
+    "index.html": "/fcc-tree-view/index.html",
+    "main.0ab24bc1.css.map": "/fcc-tree-view/static/css/main.0ab24bc1.css.map",
+    "main.9e3d1df1.js.map": "/fcc-tree-view/static/js/main.9e3d1df1.js.map",
+    "453.38d94057.chunk.js.map": "/fcc-tree-view/static/js/453.38d94057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab24bc1.css",
+    "static/js/main.9e3d1df1.js"
+  ]
+}
